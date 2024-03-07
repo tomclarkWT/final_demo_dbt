@@ -1,0 +1,378 @@
+STORE_CODE,STORE_NAME,STORE_LINK,STORE_LOCATION,STORE_POSTAL_CODE,MARKET,STORE_CODE_NEW
+412,IKEA Bremerhaven,https://www.ikea.com/de/de/stores/bremerhaven/,Bremerhaven,27572,DE,412
+502,A Coruña,https://www.ikea.com/es/es/stores/a-coruna/,A Coruña,15008,ES,502
+92651,Aberdeen,http://www.ikea.com/gb/en/ikea/aberdeen/,Aberdeen,AB12 3QW,GB,92651
+557,Adelaide,https://www.ikea.com/au/en/stores/adelaide/,Adelaide,5950,AU,557
+216,Calgary,https://www.ikea.com/ca/en/stores/calgary-store-index-pub60891e39,Alberta,T2H 3B2,CA,216
+349,Edmonton,https://www.ikea.com/ca/en/stores/edmonton-store-index-pubd3ff875a,Alberta,T6N 1M3,CA,349
+415,Amersfoort,https://www.ikea.com/nl/nl/stores/amersfoort/,Euroweg 101,3825 HB,NL,415
+88,Amsterdam,https://www.ikea.com/nl/nl/stores/amsterdam/,Hullenbergweg 2,1101 BL,NL,088
+457,IKEA Ancona,https://www.ikea.com/it/it/stores/ancona/,Aspio Terme,60021 ,IT,457
+179,IKEA Wilrijk,https://www.ikea.com/be/nl/stores/wilrijk/ ,"Boomsesteenweg 755, 2610 Wilrijk",2610,BE,179
+483,IKEA Arlon,https://www.ikea.com/be/fr/stores/arlon/,"Rue de Grass 100, 6700 Arlon",6700,BE,483
+257,Atlanta,https://www.ikea.com/us/en/stores/atlanta/,Atlanta,30363,US,257
+66,Augsburg,https://www.ikea.com/de/de/stores/augsburg/,Augsburg,86368,DE,066
+27,Round Rock,https://www.ikea.com/us/en/stores/round-rock/,Austin TX,78665,US,027
+18,Avignon,https://www.ikea.com/fr/fr/stores/avignon/,Avignon,84270,FR,018
+152,Baltimore,https://www.ikea.com/us/en/stores/baltimore/,Baltimore MD,21236,US,152
+276,Barakaldo,https://www.ikea.com/es/es/stores/barakaldo/,Barakaldo (Bilbao),48902,ES,276
+171,Sabadell,https://www.ikea.com/es/es/stores/barcelona-sabadell/,Sabadell (Barcelona),8205,ES,171
+280,Badalona,https://www.ikea.com/es/es/stores/barcelona-badalona/,Badalona (Barcelona),8917,ES,280
+406,Hospitalet (Gran Vía),https://www.ikea.com/es/es/stores/barcelona-hospitalet/,L'Hospitalet de Llobregat,8908,ES,406
+274,Barendrecht,https://www.ikea.com/nl/nl/stores/barendrecht-rotterdam/,Hamburg 1,2993 LG,NL,274
+356,IKEA Bari,https://www.ikea.com/it/it/stores/bari/,Bari,70126 ,IT,356
+310,Bayonne,https://www.ikea.com/fr/fr/stores/bayonne-ametzondo/,Saint-Pierre-d'Irube,64990 ,FR,310
+113,IKEA Belfast,https://www.ikea.com/gb/en/stores/belfast/,Belfast,BT3 9EJ,GB,113
+324,Berlin-Lichtenberg,https://www.ikea.com/de/de/stores/berlin-lichtenberg/,Berlin-Lichtenberg,10365,DE,324
+394,IKEA Berlin-Spandau,https://www.ikea.com/de/de/stores/berlin-spandau/,Berlin-Spandau,13597,DE,394
+421,IKEA Berlin-Tempelhof,https://www.ikea.com/de/de/stores/berlin-tempelhof/,Berlin-Tempelhof,10829,DE,421
+129,Berlin-Waltersdorf,https://www.ikea.com/de/de/stores/berlin-waltersdorf/,Berlin-Waltersdorf,12529,DE,129
+119,Bielefeld,https://www.ikea.com/de/de/stores/bielefeld/,Bielefeld,33647,DE,119
+142,IKEA Wednesbury,https://www.ikea.com/gb/en/stores/birmingham/,Wednesbury,WS10 9SF,GB,142
+231,IKEA Bologna ,https://www.ikea.com/it/it/stores/bologna-casalecchio/,Casalecchio di Reno,40033 ,IT,231
+134,Bordeaux,https://www.ikea.com/fr/fr/stores/bordeaux/,Bordeaux,33300 ,FR,134
+248,IKEA Borlänge,https://www.ikea.com/se/sv/stores/borlange/,Borlänge,78170,SE,248
+158,Stoughton,https://www.ikea.com/us/en/stores/stoughton/,Boston,2072,US,158
+117,Braunschweig,https://www.ikea.com/de/de/stores/braunschweig/,Braunschweig,38112,DE,117
+403,Breda,https://www.ikea.com/nl/nl/stores/breda/,Kruisweide 1,4814 RW,NL,403
+228,Brinkum,https://www.ikea.com/de/de/stores/brinkum/,Brinkum,28816,DE,228
+138,Roncadelle,https://www.ikea.com/it/it/stores/brescia-roncadelle/,Brescia Roncadelle,25030,IT,138
+354,IKEA Brescia ,https://www.ikea.com/it/it/stores/brescia-roncadelle/,Roncadelle ,25030 ,IT,354
+60,Brest,https://www.ikea.com/fr/fr/stores/brest/,Guipavas,29490,FR,060
+460,North Lakes,https://www.ikea.com/au/en/stores/north-lakes/,North Lakes,4509,AU,460
+919,Logan,https://www.ikea.com/au/en/stores/logan/,Logan,4127,AU,919
+264,IKEA Bristol,https://www.ikea.com/gb/en/stores/bristol/,Bristol,BS5 6XX,GB,264
+32,Richmond,https://www.ikea.com/ca/en/stores/richmond-store-index-pub144b808a,British Columbia,V6V 1Z6,CA,032
+313,Coquitlam,https://www.ikea.com/ca/en/stores/coquitlam-store-index-pub99c18e3a,British Columbia,V3K 3T5,CA,313
+376,IKEA Zaventem,https://www.ikea.com/be/nl/stores/zaventem/,"Weiveldlaan 19, 1930 Zaventem",1930,BE,376
+482,IKEA Anderlecht,https://www.ikea.com/be/fr/stores/anderlecht/,"Chaussée de Mons 1432, 1070 Anderlecht",1070,BE,482
+277,Jerez,https://www.ikea.com/es/es/stores/jerez/,Jerez de la Frontera (Cádiz),11408,ES,277
+199,Caen,https://www.ikea.com/fr/fr/stores/caen-fleury-sur-orne/,Fleury-sur-Orne,14123 ,FR,199
+23201,Cagliari Ordina E Arreda,https://www.ikea.com/it/it/stores/cagliari/,Cagliari,(0)9131,IT,23201
+451,Canberra,https://www.ikea.com/au/en/stores/canberra/,Canberra,2609,AU,451
+267,IKEA Cardiff,https://www.ikea.com/gb/en/stores/cardiff/,Cardiff,CF11 0XR,GB,267
+98,IKEA Catania,https://www.ikea.com/it/it/stores/catania/,Catania,95121 ,IT,098
+67,Charlotte,https://www.ikea.com/us/en/stores/charlotte/,Charlotte NC,28262,US,067
+118,Chemnitz,https://www.ikea.com/de/de/stores/chemnitz/,Chemnitz,9116,DE,118
+170,Bolingbrook,https://www.ikea.com/us/en/stores/bolingbrook/,Chicago,60440,US,170
+210,Schaumburg,https://www.ikea.com/us/en/stores/schaumburg/,Chicago,60173,US,210
+29,IKEA Chieti ,https://www.ikea.com/it/it/stores/chieti/,San Giovanni teatino,66020 ,IT,029
+175,West Chester,https://www.ikea.com/us/en/stores/west-chester/,Cincinnati,45069,US,175
+345,Clermont - Ferrand,https://www.ikea.com/fr/fr/stores/clermont-ferrand/,Clermont-Ferrand,63100 ,FR,345
+150,Coventry,https://www.ikea.com/gb/en/stores/coventry/,Coventry,CV1 3AZ,GB,150
+144,IKEA Croydon,https://www.ikea.com/gb/en/stores/croydon/,Croydon,CR0 4YA,GB,144
+183,Frisco,https://www.ikea.com/us/en/stores/frisco/,Dallas,75034,US,183
+81,Delft,https://www.ikea.com/nl/nl/stores/delft/,Delft,2616,NL,081
+64,Centennial,https://www.ikea.com/us/en/stores/centennial/,Denver CO,80112,US,064
+26,Canton,https://www.ikea.com/us/en/stores/canton/,Detriot ,48187,US,026
+86,Dijon,https://www.ikea.com/fr/fr/stores/dijon/,Dijon,21000 ,FR,086
+223,Dortmund,https://www.ikea.com/de/de/stores/dortmund/,Dortmund,44149,DE,223
+221,Dresden,https://www.ikea.com/de/de/stores/dresden/,Dresden,1139,DE,221
+38,IKEA Ballymun,https://www.ikea.com/ie/en/stores/dublin/,"Ballymun, Dublin",D11 FW18,IE,038
+90381,Dublin Carrickmines,http://www.ikea.com/ie/en/ikea/ikea-order-and-collection-points/,Dublin, D18 VY92,IE,90381
+425,IKEA Duisburg,https://www.ikea.com/de/de/stores/duisburg/,Duisburg,47166,DE,425
+272,Duiven,https://www.ikea.com/nl/nl/stores/duiven/,Biograaf 2,6921 EV,NL,272
+321,Düsseldorf,https://www.ikea.com/de/de/stores/duesseldorf/,Düsseldorf,40589,DE,321
+63,München-Eching,https://www.ikea.com/de/de/stores/muenchen-eching/,München-Eching,85386,DE,063
+265,IKEA Edinburgh,https://www.ikea.com/gb/en/stores/edinburgh/,Edinburgh,EH20 9BY,GB,265
+87,Eindhoven,https://www.ikea.com/nl/nl/stores/eindhoven/,Ekkersrijt 4089,5692 DB,NL,087
+154,Elizabeth,https://www.ikea.com/us/en/stores/elizabeth/,Elizabeth,7201,US,154
+396,IKEA Erfurt,https://www.ikea.com/de/de/stores/erfurt/,Erfurt,99094,DE,396
+202,IKEA Espoo,https://www.ikea.com/fi/fi/stores/espoo/,Espoo,2740,FI,2740
+148,Essen,https://www.ikea.com/de/de/stores/essen/,Essen,45127,DE,148
+262,IKEA Lakeside,https://www.ikea.com/gb/en/stores/lakeside/,Lakeside/Essex,RM20 3WJ,GB,262
+82,Paris - Evry,https://www.ikea.com/fr/fr/stores/evry/,Lisses,91090,FR,082
+548,IKEA Exeter,https://www.ikea.com/gb/en/stores/exeter/,Exeter,EX2 7RX,GB,548
+352,IKEA Firenza,https://www.ikea.com/it/it/stores/firenze/,Osmannoro ,50019 ,IT,352
+389,Paris - Franconville,https://www.ikea.com/fr/fr/stores/paris-franconville/,Franconville,95130 ,FR,389
+222,Hanau,https://www.ikea.com/de/de/stores/hanau/,Hanau,63452,DE,222
+393,IKEA Frankfurt,https://www.ikea.com/de/de/stores/frankfurt/,Frankfurt,60437,DE,393
+320,Freiburg,https://www.ikea.com/de/de/stores/freiburg/,Freiburg,79108,DE,320
+143,IKEA Gateshead,https://www.ikea.com/gb/en/stores/gateshead/,Gateshead,NE11 9XS,GB,143
+232,IKEA Genova,https://www.ikea.com/it/it/stores/genova/,Genova,16152 ,IT,232
+169,IKEA Gent,https://www.ikea.com/be/nl/stores/gent/,"Maaltekouter 2, 9051 Sint-Denijs-Westrem",9051,BE,169
+266,IKEA Glasgow,https://www.ikea.com/gb/en/stores/glasgow/,Glasgow,G51 4FB,GB,266
+116,IKEA Gorizia,https://www.ikea.com/it/it/stores/gorizia-villesse/,Villesse ,34070 ,IT,116
+435,Grenoble,https://www.ikea.com/fr/fr/stores/grenoble/, Saint-Martin-d'Hères,38400 ,FR,435
+404,Groningen,https://www.ikea.com/nl/nl/stores/groningen/,Sontweg 9,9723 AT,NL,404
+226,Hannover-Großburgwedel,https://www.ikea.com/de/de/stores/grossburgwedel/,Hannover-Großburgwedel,30938,DE,226
+122,IKEA Gävle,https://www.ikea.com/se/sv/stores/gavle/,Gävle,81832,SE,122
+14,Göteborg Kållered,https://www.ikea.com/ext/local-store/se/sv/goteborg-kallered/,Göteborg,42836,SE,014
+398,IKEA Bäckebol,https://www.ikea.com/se/sv/stores/goteborg-backebol/,Bäckebol,42246,SE,398
+245,Hamburg-Altona,https://www.ikea.com/de/de/stores/hamburg-altona/,Hamburg-Altona,22767,DE,245
+325,Hamburg-Moorfleet,https://www.ikea.com/de/de/stores/hamburg-moorfleet/,Hamburg-Moorfleet,22113,DE,325
+146,Hamburg-Schnelsen,https://www.ikea.com/de/de/stores/hamburg-schnelsen/,Hamburg-Schnelsen,22457,DE,146
+187,Hannover EXPO-Park,https://www.ikea.com/de/de/stores/hannover-expo-park/,Hannover EXPO-Park,30539,DE,187
+470,IKEA Haparanda,https://www.ikea.com/se/sv/stores/haparandatornio/,Haparanda,95336,SE,470
+452,IKEA Hasselt,https://www.ikea.com/be/nl/stores/hasselt/,"Biezenstraat 45, 3500 Hasselt",3500,BE,452
+89,Heerlen,https://www.ikea.com/nl/nl/stores/heerlen/,In de Cramer 142,6412 PM,NL,089
+468,IKEA Helsingborg,https://www.ikea.com/se/sv/stores/helsingborg/,Helsingborg,25469,SE,468
+312,Hengelo,https://www.ikea.com/nl/nl/stores/hengelo/,Het Plein 100,7559 SR,NL,312
+51,Lens - Hénin-Beaumont,https://www.ikea.com/fr/fr/stores/henin-beaumont/,Hénin-Beaumont,62110,FR,051
+378,Haarlem,https://www.ikea.com/nl/nl/stores/haarlem/,Laan van Decima 1,2031 CX,NL,378
+109,IKEA Jönköping,https://www.ikea.com/se/sv/stores/jonkoping/,Jönköping,55305,SE,109
+430,IKEA Kaiserslautern,https://www.ikea.com/de/de/stores/kaiserslautern/,Kaiserslautern,67663,DE,430
+469,IKEA Kalmar,https://www.ikea.com/se/sv/stores/kalmar/,Kalmar,39239,SE,469
+323,Kamen,https://www.ikea.com/de/de/stores/kamen/,Kamen,59174,DE,323
+471,IKEA Karlstad,https://www.ikea.com/se/sv/stores/karlstad/,Karlstad,65346,SE,471
+174,Kassel,https://www.ikea.com/de/de/stores/kassel/,Kassel,34123,DE,174
+333,IKEA Kiel,https://www.ikea.com/de/de/stores/kiel/,Kiel,24114,DE,333
+332,IKEA Koblenz,https://www.ikea.com/de/de/stores/koblenz/,Koblenz,56070,DE,332
+208,IKEA Kuopio,https://www.ikea.com/fi/fi/stores/kuopio/,Kuopio,70800,FI,70800
+102,Köln-Am Butzweilerhof,https://www.ikea.com/de/de/stores/koeln-am-butzweilerhof/,Köln-Am Butzweilerhof,50829,DE,102
+147,Köln-Godorf,https://www.ikea.com/de/de/stores/koeln-godorf/,Köln-Godorf,50997,DE,147
+494,IKEA Kaarst,https://www.ikea.com/de/de/stores/kaarst/,Kaarst,41564,DE,494
+261,IKEA Leeds,https://www.ikea.com/gb/en/stores/leeds/,Leeds,WF17 9AE,GB,261
+139,Halle/Leipzig,https://www.ikea.com/de/de/stores/halle-leipzig/,Halle/Leipzig,6237,DE,139
+375,IKEA Liège,https://www.ikea.com/be/nl/stores/liege/ ,"Porte de Liège 7, 4342 Hognoul",4342,BE,375
+17,IKEA Linköping,https://www.ikea.com/se/sv/stores/linkoping/,Linköping,58111,SE,017
+133,Lille - Lomme,https://www.ikea.com/fr/fr/stores/lille/,LOMME,59160,FR,133
+141,IKEA Wembley,https://www.ikea.com/gb/en/stores/wembley/,Wembley,NW10 0TH,GB,141
+567,IKEA Greenwich,https://www.ikea.com/gb/en/stores/greenwich/,Greenwich,SE10 0QJ,GB,567
+92551,Westfield Stratford City,http://www.ikea.com/gb/en/ikea/information/westfield-stratford-city/,London,E20 1EJ,GB,92551
+156,IKEA Long Island,https://www.ikea.com/us/en/stores/long-island/,"NY, Long Island",11801,US,156
+162,Carson,https://www.ikea.com/us/en/stores/carson/,Los Angeles,90746,US,162
+225,Ludwigsburg,https://www.ikea.com/de/de/stores/ludwigsburg/,Ludwigsburg,71634,DE,225
+289,Lübeck,https://www.ikea.com/de/de/stores/luebeck/,Lübeck,23569,DE,289
+31,Alcorcón,https://www.ikea.com/es/es/stores/madrid-alcorcon/,Alcorcón (Madrid),28922,ES,031
+282,San Sebastián de los Reyes,https://www.ikea.com/es/es/stores/madrid-san-sebastian/,San Sebastián de los Reyes (Madrid),28701,ES,282
+498,Ensanche de Vallecas,https://www.ikea.com/es/es/stores/madrid-ensanche-vallecas/,Madrid,28051,ES,498
+520,IKEA Magdeburg,https://www.ikea.com/de/de/stores/magdeburg/,Magdeburg,39128,DE,520
+304,Málaga,https://www.ikea.com/es/es/stores/malaga/,Málaga,29004,ES,304
+445,IKEA Svågertorp,https://www.ikea.com/se/sv/stores/malmo/,Svågertorp,21586,SE,445
+186,IKEA Manchester,https://www.ikea.com/gb/en/stores/manchester/,Manchester,OL6 7TE,GB,186
+249,Winnipeg,https://www.ikea.com/ca/en/stores/winnipeg-store-index-pub778c21ea,Manitoba,R3P 1E7,CA,249
+397,IKEA Mannheim,https://www.ikea.com/de/de/stores/mannheim/,Mannheim,68307,DE,397
+433,Marseille - La Valentine,https://www.ikea.com/fr/fr/stores/marseille-la-valentine/,Marseille,13011 ,FR,433
+130,Marseille - Vitrolles,https://www.ikea.com/fr/fr/stores/marseille-vitrolles/,Vitrolles,13127 ,FR,130
+6,Springvale,https://www.ikea.com/au/en/stores/springvale/,Springvale,3171,AU,006
+384,Richmond,https://www.ikea.com/au/en/stores/richmond/,Richmond,3121,AU,384
+260,Metz - La Maxe,https://www.ikea.com/fr/fr/stores/metz/,La Maxe,57140 ,FR,260
+207,Sunrise,https://www.ikea.com/us/en/stores/sunrise/,Miami,33325,US,207
+327,Miami,https://www.ikea.com/us/en/stores/miami/,Miami,33172,US,327
+233,IKEA Carugate,https://www.ikea.com/it/it/stores/milano-carugate/,Carugate ,20061 ,IT,233
+455,IKEA Corsico,https://www.ikea.com/it/it/stores/milano-corsico/,Corsico ,20094,IT,455
+295,IKEA San Giuliano,https://www.ikea.com/it/it/stores/milano-san-giuliano/,San Giuliano Milanese ,20098 ,IT,295
+185,IKEA Milton Keynes,https://www.ikea.com/gb/en/stores/milton-keynes/,Milton Keynes,MK1 1QB,GB,185
+212,IKEA Minneapolis,https://www.ikea.com/us/en/stores/minneapolis/,"MN, Minneapolis",55425,US,212
+423,IKEA Mons,https://www.ikea.com/be/fr/stores/mons/,"Place des Grands Prés 1a, 7000 Mons",7000,BE,423
+402,Montpellier,https://www.ikea.com/fr/fr/stores/montpellier/,Montpellier,34000 ,FR,402
+444,Mulhouse,https://www.ikea.com/fr/fr/stores/mulhouse/,Morschwiller-le-Bas,68790,FR,444
+449,Murcia,'-,Murcia,30110,ES,449
+343,IKEA München-Brunnthal,https://www.ikea.com/de/de/stores/muenchen-brunnthal/,München-Brunnthal,82024,DE,343
+68,Onlineshop,https://www.ikea.com/de/de/,N/A,N/A,DE,068
+316,Nantes,https://www.ikea.com/fr/fr/stores/nantes/,Saint-Herblain,44800 ,FR,316
+353,IKEA Napoli,https://www.ikea.com/it/it/stores/napoli-afragola/,Afragola ,80021 ,IT,353
+213,New Haven,https://www.ikea.com/us/en/stores/new-haven/,New Haven,6511,US,213
+91421,Norwich,http://www.ikea.com/gb/en/ikea/norwich/,Norwich ,NR6 5DH,GB,91421
+263,IKEA Nottingham,https://www.ikea.com/gb/en/stores/nottingham/,Nottingham,NG16 2RP,GB,263
+529,Halifax,https://www.ikea.com/ca/en/stores/ikeahalifax-store-index-pub3827a28a,Nova Scotia,B3B 0M2,CA,529
+326,Nürnberg/Fürth,https://www.ikea.com/de/de/stores/nuernberg-fuerth/,Nürnberg-Fürth,90765,DE,326
+69,Oldenburg,https://www.ikea.com/de/de/stores/oldenburg/,Oldenburg,26135,DE,069
+4,Ottawa,https://www.ikea.com/ca/en/stores/ottawa-store-index-pub7d03527a,Ontario,K2C 3S4,CA,004
+40,Burlington,https://www.ikea.com/ca/en/stores/burlington-store-index-pub249892c1,Ontario,L7T 4K1,CA,040
+149,North York,https://www.ikea.com/ca/en/stores/ikea-north-york-store-offers-pub140b7731,Ontario,M2K 2X9,CA,149
+256,Etobicoke,https://www.ikea.com/ca/en/stores/etobicoke-store-index-pub0ec85b5a,Ontario,M8Z 1T3,CA,256
+372,Vaughan,https://www.ikea.com/ca/en/stores/vaughan-store-index-pub43744188,Ontario,L4K 5C3,CA,372
+145,Orlando,https://www.ikea.com/us/en/stores/orlando/,Orlando FL,32839,US,145
+487,Orléans,https://www.ikea.com/fr/fr/stores/orleans-ardon/,Ardon,45160 ,FR,487
+184,Osnabrück,https://www.ikea.com/de/de/stores/osnabrueck/,Osnabrück,49078,DE,184
+355,IKEA Padova,https://www.ikea.com/it/it/stores/padova/,Padova,35129 ,IT,355
+428,Asturias,https://www.ikea.com/es/es/stores/asturias/,Asturias,33429,ES,428
+580,Paris - La Madeleine,https://www.ikea.com/fr/fr/stores/paris-la-madeleine/,Paris,75001 ,FR,580
+131,Paris - Nord,https://www.ikea.com/fr/fr/stores/paris-nord-roissy/,Gonesse,95500 ,FR,131
+303,IKEA Parma,https://www.ikea.com/it/it/stores/parma/,Parma,43122 ,IT,303
+556,Perth,https://www.ikea.com/au/en/stores/perth/,Perth,6018,AU,556
+211,Conshohocken,https://www.ikea.com/us/en/stores/conshohocken/,Philadelphia,19428,US,211
+215,South Philadelphia,https://www.ikea.com/us/en/stores/south-philadelphia/,Philadelphia,19148,US,215
+209,Tempe,https://www.ikea.com/us/en/stores/tempe/,Phoenix,85284,US,209
+314,IKEA Pisa,https://www.ikea.com/it/it/stores/pisa/,Pisa,56121 ,IT,314
+153,Pittsburgh,https://www.ikea.com/us/en/stores/pittsburgh/,Pittsburgh PA,15205,US,153
+83,Paris - Plaisir,https://www.ikea.com/fr/fr/stores/plaisir/,Plaisir,78370 ,FR,083
+427,IKEA Porta di Roma,https://www.ikea.com/it/it/stores/roma-porta-di-roma/,Roma,00139 ,IT,427
+28,Portland,https://www.ikea.com/us/en/stores/portland/,Portland OR,97220,US,028
+39,Montreal,https://www.ikea.com/ca/en/stores/montreal-store-index-pubbd00baaa,Quebec,H4T 1M8,CA,039
+414,Boucherville,https://www.ikea.com/ca/en/stores/boucherville-store-index-pubce7073ea,Quebec,J4B 5E4,CA,414
+559,Quebec,https://www.ikea.com/ca/en/stores/quebec-store-index-pubdd1b63aa,Quebec,G1X 0E4,CA,559
+461,IKEA Reading,https://www.ikea.com/gb/en/stores/reading/,Reading,RG31 7SD,GB,461
+229,Regensburg,https://www.ikea.com/de/de/stores/regensburg/,Regensburg,93055,DE,229
+198,Reims,https://www.ikea.com/fr/fr/stores/reims/,Thillois,51370 ,FR,198
+177,Rennes,https://www.ikea.com/fr/fr/stores/rennes/,Pacé,35740 ,FR,177
+111,IKEA Rimini,https://www.ikea.com/it/it/stores/rimini/,Rimini,47922 ,IT,111
+234,IKEA Anagnina,https://www.ikea.com/it/it/stores/roma-anagnina/,Roma ,00173 ,IT,234
+92,Rostock,https://www.ikea.com/de/de/stores/rostock/,Rostock,18069,DE,092
+163,Rouen,https://www.ikea.com/fr/fr/stores/rouen/,Tourville-la-Rivière,76410 ,FR,163
+157,West Sacramento,https://www.ikea.com/us/en/stores/west-sacramento/,Sacramento CA,95605,US,157
+431,Saint-Étienne,https://www.ikea.com/fr/fr/stores/saint-etienne/,Saint-Étienne,42000 ,FR,431
+458,IKEA Salerno,https://www.ikea.com/it/it/stores/salerno-baronissi/,Baronissi ,84081,IT,458
+103,Draper,https://www.ikea.com/us/en/stores/draper/,Salt Lake City UT,84020,US,103
+166,San Diego,https://www.ikea.com/us/en/stores/san-diego/,San Diego ,92108,US,166
+165,Emeryville,https://www.ikea.com/us/en/stores/emeryville/,San Francisco,94608,US,165
+347,East Palo Alto,https://www.ikea.com/us/en/stores/east-palo-alto/,San Francisco,94303,US,347
+250,Seattle,https://www.ikea.com/us/en/stores/renton/,Seattle,98057,US,250
+283,Sevilla,https://www.ikea.com/es/es/stores/sevilla/,Castilleja de la Cuesta (Sevilla),41950,ES,283
+519,IKEA Sheffield,https://www.ikea.com/gb/en/stores/sheffield/,Sheffield,S9 2YL,GB,519
+369,IKEA Siegen,https://www.ikea.com/de/de/stores/siegen/,Siegen,57072,DE,369
+224,Sindelfingen,https://www.ikea.com/de/de/stores/sindelfingen/,Sindelfingen,71063,DE,224
+125,IKEA Southampton,https://www.ikea.com/gb/en/stores/southampton/,Southampton,SO15 1GY,GB,125
+12,IKEA Kungens Kurva,https://www.ikea.com/se/sv/stores/stockholm-kungens-kurva/,Kungens Kurva,14175,SE,012
+19,IKEA Barkarby,https://www.ikea.com/se/sv/stores/stockholm-barkarby/,Barkarby,17738,SE,019
+239,Strasbourg,https://www.ikea.com/fr/fr/stores/strasbourg/,Strasbourg,67200 ,FR,239
+467,IKEA Birsta,https://www.ikea.com/se/sv/stores/sundsvall/,Birsta,86341,SE,467
+377,Marsden Park,https://www.ikea.com/au/en/stores/marsden-park/,Marsden Park,2765,AU,377
+385,Rhodes,https://www.ikea.com/au/en/stores/rhodes/,Rhodes,2138,AU,385
+446,Tempe,https://www.ikea.com/au/en/stores/tempe/,Tempe,2044,AU,446
+227,Saarlouis,https://www.ikea.com/de/de/stores/saarlouis/,Saarlouis,66740,DE,227
+42,Tampa,https://www.ikea.com/us/en/stores/tampa/,Tampa FL,33605,US,042
+8,IKEA Tampere,https://www.ikea.com/fi/fi/stores/tampere/,Tampere,33840,FI,33840
+456,IKEA Torino,https://www.ikea.com/it/it/stores/torino-collegno/,Collegno ,10093 ,IT,456
+315,Toulon - La Valette-du-Var,https://www.ikea.com/fr/fr/stores/toulon/,Toulon - La Valette-du-Var,83160 ,FR,315
+242,Toulouse - Roques,https://www.ikea.com/fr/fr/stores/toulouse/,Roques,31120 ,FR,242
+434,Tours,https://www.ikea.com/fr/fr/stores/tours/,Tours,37000 ,FR,434
+301,IKEA Raisio,https://www.ikea.com/fi/fi/stores/raisio/,Raisio,21280,FI,21280
+53,IKEA Uddevalla,https://www.ikea.com/se/sv/stores/uddevalla/,Uddevalla,45176,SE,053
+328,IKEA Ulm,https://www.ikea.com/de/de/stores/ulm/,Ulm,89077,DE,328
+416,IKEA Umeå,https://www.ikea.com/se/sv/stores/umea/,Umeå,90422,SE,416
+70,IKEA Uppsala,https://www.ikea.com/se/sv/stores/uppsala/,Uppsala,75323,SE,070
+270,Utrecht,https://www.ikea.com/nl/nl/stores/utrecht/,Van Rensselaerlaan 7,3526 AP,NL,270
+339,Valencia,https://www.ikea.com/es/es/stores/valencia-alfafar/,Alfafar (Valencia),46910,ES,339
+30,Valladolid,https://www.ikea.com/es/es/stores/valladolid/,Arroyo de la Encomienda (Valladolid),47195,ES,030
+422,IKEA Vantaa,https://www.ikea.com/fi/fi/stores/vantaa/,Vantaa,1200,FI,1200
+285,Velizy,https://www.ikea.com/fr/fr/stores/velizy/,Vélizy-Villacoublay,78140 ,FR,285
+240,Paris - Villiers,https://www.ikea.com/fr/fr/stores/paris-villiers/,Villiers-sur-Marne,94350 ,FR,240
+20,IKEA Västerås,https://www.ikea.com/se/sv/stores/vasteras/,Västerås,72138,SE,020
+322,Wallau,https://www.ikea.com/de/de/stores/wallau/,Wallau,65719,DE,322
+75,Walldorf,https://www.ikea.com/de/de/stores/walldorf/,Walldorf,69190,DE,075
+140,IKEA Warrington,https://www.ikea.com/gb/en/stores/warrington/,Warrington,WA5 7TY,GB,140
+168,Woodbridge,https://www.ikea.com/us/en/stores/woodbridge/,Washington DC,22192,US,168
+493,IKEA Wetzlar,https://www.ikea.com/de/de/stores/wetzlar/,Wetzlar,35576,DE,493
+492,IKEA Wuppertal,https://www.ikea.com/de/de/stores/wuppertal/,Wuppertal,42279,DE,492
+124,Würzburg,https://www.ikea.com/de/de/stores/wuerzburg/,Würzburg,97078,DE,124
+497,Zaragoza,https://www.ikea.com/es/es/stores/zaragoza/,Zaragoza,50021,ES,497
+391,Zwolle,https://www.ikea.com/nl/nl/stores/zwolle/,Diepholtstraat 3,8028 PN,NL,391
+11,Älmhult,https://www.ikea.com/ext/local-store/se/sv/almhult/,Älmhult,34333,SE,011
+268,IKEA Älmhult,https://www.ikea.com/se/sv/stores/almhult/,Älmhult,34333,SE,268
+106,IKEA Marieberg,https://www.ikea.com/se/sv/stores/orebro/,Marieberg,70231,SE,106
+432,Paris - Thiais,https://www.ikea.com/fr/fr/stores/paris-sud-thiais/,Thiais,94320 ,FR,432
+562,Lyon - Grand Parilly,https://www.ikea.com/fr/fr/stores/grand-parilly/,Vénissieux,69200 ,FR,562
+387,IKEA  Graz,https://www.ikea.com/at/de/stores/graz/,"Weblinger Gürtel 31, Graz",8054,AT,387
+388,IKEA  Linz Haid,https://www.ikea.com/at/de/stores/linz-haid/,Linz Haid,4053,AT,388
+273,IKEA  Innsbruck,https://www.ikea.com/at/de/stores/innsbruck/,Innsbruck,6020,AT,273
+155,IKEA  Klagenfurt,https://www.ikea.com/at/de/stores/klagenfurt/,Klagenfurt,9020,AT,155
+386,IKEA  Salzburg,https://www.ikea.com/at/de/stores/salzburg/,Salzburg,5020,AT,386
+85,IKEA  Vösendorf,https://www.ikea.com/at/de/stores/wien-voesendorf/,Vösendorf,2334,AT,085
+90,IKEA  Wien Nord,https://www.ikea.com/at/de/stores/wien-nord/,Wien Nord,1220,AT,090
+291,IKEA Dietlikon,https://www.ikea.com/ch/de/stores/dietlikon/,Dietlikon,8305,CH,291
+290,IKEA Lyssach,https://www.ikea.com/ch/de/stores/lyssach/,Lyssach,3421,CH,290
+292,IKEA Pratteln,https://www.ikea.com/ch/de/stores/pratteln/,Pratteln,4133,CH,292
+275,IKEA Rothenburg,https://www.ikea.com/ch/de/stores/rothenburg/,Rothenburg,6023,CH,275
+79,IKEA Spreitenbach,https://www.ikea.com/ch/de/stores/spreitenbach/,Spreitenbach,8957,CH,079
+917,IKEA St. Gallen,https://www.ikea.com/ch/de/stores/st-gallen/,St. Gallen,9015,CH,917
+918,IKEA Vernier,https://www.ikea.com/ch/fr/stores/vernier/,Vernier,1214,CH,918
+78,IKEA Aubonne,https://www.ikea.com/ch/fr/stores/aubonne/,Aubonne,1170,CH,078
+101,IKEA Grancia,https://www.ikea.com/ch/it/stores/grancia/,Grancia,6916,CH,101
+551,IKEA Karlsruhe,https://www.ikea.com/de/de/stores/karlsruhe/,Karlsruhe,76137,DE,551
+188,IKEA Warszawa Janki,https://www.ikea.com/pl/pl/stores/janki/,"Janki, pl. Szwedzki 1",05-090,PL,188
+203,IKEA Gdańsk,https://www.ikea.com/pl/pl/stores/gdansk/,ul. Złota Karczma 26,80-298,PL,203
+204,IKEA Kraków,https://www.ikea.com/pl/pl/stores/krakow/,ul. Josepha Conrada 66,31-357,PL,204
+205,IKEA Poznań,https://www.ikea.com/pl/pl/stores/poznan/,ul. Szwedzka 10,61-285,PL,205
+294,IKEA Wrocław,https://www.ikea.com/pl/pl/stores/wroclaw/,"Bielany Wroclawskie, Czekoladowa 5A",55-040,PL,294
+306,IKEA Katowice,https://www.ikea.com/pl/pl/stores/katowice/,al. W. Roździeńskiego 95,40-203,PL,306
+307,IKEA Warszawa Targówek,https://www.ikea.com/pl/pl/stores/targowek/,ul. Malborska 51,03-286,PL,307
+311,IKEA Lublin,https://www.ikea.com/pl/pl/stores/lublin/,Aleja Spółdzielczości Pracy 86,20-147,PL,311
+329,IKEA Łódź,https://www.ikea.com/pl/pl/stores/lodz/,ul. Pabianicka 255,93-457,PL,329
+429,IKEA Bydgoszcz,https://www.ikea.com/pl/pl/stores/bydgoszcz/,ul. Skandynawska 1,85-776,PL,429
+583,IKEA Szczecin,https://www.ikea.com/pl/pl/stores/szczecin/,ul. Białowieska 2,71-010,PL,583
+623,Warszawa,https://www.ikea.com/pl/pl/stores/warszawa-pub34df9031,Warszawa,02-222,PL,623
+189,IKEA Fukuoka Shingu,https://www.ikea.com/jp/ja/stores/fukuoka-shingu/,Fukuokashingu,811-0120,JP,189
+671,IKEA Tokyo-Bay,https://www.ikea.com/jp/ja/stores/harajuku/,Harajuku,150-0001,JP,671
+486,IKEA仙台,https://www.ikea.com/jp/ja/stores/kobe/,Kobe,650-0046,JP,486
+448,IKEA長久手,https://www.ikea.com/jp/ja/stores/kohoku/,Kohoku,224-0043,JP,448
+509,IKEA新宿,https://www.ikea.com/jp/ja/stores/nagakute/,Nagakute,480-1100,JP,509
+392,IKEA神戸,https://www.ikea.com/jp/ja/stores/sendai/,Sendai,982-0007,JP,392
+647,IKEA新三郷,https://www.ikea.com/jp/ja/stores/shibuya/,Shibuya,150-0042,JP,647
+651,IKEA立川,https://www.ikea.com/jp/ja/stores/shinjuku/,Shinjuku,160-0022,JP,651
+887,IKEA鶴浜,https://www.ikea.com/jp/ja/stores/shinmisato/,Shinmisato,341-0009,JP,887
+359,IKEA原宿,https://www.ikea.com/jp/ja/stores/tachikawa/,Tachikawa,190-0014,JP,359
+447,IKEA港北,https://www.ikea.com/jp/ja/stores/tokyo-bay/,Tokyo-Bay,273-0012,JP,447
+496,IKEA渋谷,https://www.ikea.com/jp/ja/stores/tsuruhama/,Tsuruhama,551-0023,JP,496
+59,IKEA București Băneasa,https://www.ikea.com/ro/ro/stores/bucuresti/baneasa/,Bucureşti,13696,RO,059
+500,IKEA București Pallady,https://www.ikea.com/ro/ro/stores/bucuresti/pallady/,Bucureşti,32266,RO,500
+642,IKEA Hammersmith,https://www.ikea.com/gb/en/stores/hammersmith/,Hammersmith,W6 9HW,GB,642
+21,Zagreb,https://www.ikea.com/hr/hr/stores/,Sesvete-Kraljevec,10361,HR,021
+706,Diagonal,https://www.ikea.com/es/es/stores/ikea-diagonal/,Barcelona,8036,ES,706
+691,Almería - La Rambla,'-,Almería,4008,ES,691
+699,Granada,https://www.ikea.com/es/es/stores/ikea-granada/,Granada,18100,ES,699
+695,Leganés,https://www.ikea.com/es/es/stores/ikea-leganes/,Leganés (Madrid),28916,ES,695
+705,Glories,https://www.ikea.com/es/es/stores/ikea-glories/,Barcelona,8018,ES,705
+665,Las Rozas,https://www.ikea.com/es/es/stores/lasrozas/,Las Rozas (Madrid),28232,ES,665
+12852,Goya,https://www.ikea.com/es/es/stores/store-goya/,Madrid,28001,ES,12852
+674,Torrejón,https://www.ikea.com/es/es/stores/ikea-torrejon/,Torrejon de Ardoz (Madrid),28850,ES,674
+1,IKEA Loures,https://www.ikea.com/pt/pt/stores/loures/,Loures,2660-001 Loures,PT,001
+5,IKEA Aalborg,https://www.ikea.com/dk/da/stores/aalborg/,Aalborg,9200,DK,9200
+7,IKEA Sørlandet,https://www.ikea.com/no/no/stores/sorlandet/,Sørlandet,4636,NO,4636
+9,IKEA Matosinhos,https://www.ikea.com/pt/pt/stores/matosinhos/,Matosinhos,4450-745 Matosinhos,PT,009
+91,IKEA Slependen,https://www.ikea.com/no/no/stores/slependen/,Slependen,1396,NO,1396
+94,IKEA Taastrup,https://www.ikea.com/dk/da/stores/taastrup/,Taastrup,2630,DK,2630
+95,IKEA Furuset,https://www.ikea.com/no/no/stores/furuset/,Furuset,1081,NO,1081
+121,IKEA Gentofte,https://www.ikea.com/dk/da/stores/gentofte/,Gentofte,2820,DK,2820
+126,IKEA Forus,https://www.ikea.com/no/no/stores/forus/,Forus,4313,NO,4313
+151,Delft,https://www.ikea.com/nl/nl/stores/delft/,Olof Palmestraat 1,2616 LN,NL,151
+172,IKEA Odense,https://www.ikea.com/dk/da/stores/odense/,Odense,5220,DK,5220
+298,IKEA Aarhus,https://www.ikea.com/dk/da/stores/aarhus/,Aarhus,8200,DK,8200
+367,IKEA Alfragide,https://www.ikea.com/pt/pt/stores/alfragide/,Alfragide,2614-520 Amadora,PT,367
+371,IKEA Leangen,https://www.ikea.com/no/no/stores/leangen/,Leangen,7048,NO,7048
+373,IKEA Gwangmyeong,https://ikea.com/kr/en/stores/gwangmyeong/,Gwangmyeong,14352,KR,373
+390,KEA Ringsaker,https://www.ikea.com/no/no/stores/ringsaker/,Ringsaker,2320,NO,2320
+441,IKEA Åsane,https://www.ikea.com/no/no/stores/asane/,Åsane,5131,NO,5131
+453,IKEA Loulé,https://www.ikea.com/pt/pt/stores/loule/,Loulé,8135-182 Almancil,PT,453
+499,IKEA Braga,https://www.ikea.com/pt/pt/stores/braga/,Braga,4700-068 Braga,PT,499
+501,IKEA Hyderabad,https://www.ikea.com/in/en/stores/hyderabad/,Hyderabad,500032,IN,501
+518,Nice - St. Isidore,https://www.ikea.com/fr/fr/stores/nice-saint-isidore/,Nice,06200 ,FR,518
+522,IKEA Goyang,https://www.ikea.com/kr/en/stores/goyang/,Goyang,10551,KR,522
+545,IKEA Navi Mumbai,https://www.ikea.com/in/en/stores/mumbai/navi/,Navi Mumbai,400705,IN,545
+582,IKEA Giheung,https://www.ikea.com/kr/en/stores/giheung/,Giheung,17086,KR,582
+602,IKEA Dongbusan,https://www.ikea.com/kr/en/stores/dong-busan/,Dongbusan,46084,KR,602
+645,Paris - Rivoli,https://www.ikea.com/fr/fr/stores/paris-rivoli/,Paris,75001 ,FR,645
+659,Toronto Downtown,https://www.ikea.com/ca/en/stores/toronto-downtown/,Downtown Toronto,M5B 1S9,CA,659
+682,IKEA Fiumicino,https://www.ikea.com/it/it/stores/roma-fiumicino/,Fiumicino,00054 ,IT,682
+686,IKEA København,https://www.ikea.com/dk/da/stores/kobenhavn/,København,1577,DK,1577
+374,IKEA Merriam,https://www.ikea.com/us/en/stores/merriam/,"KS, Merriam",66202,US,374
+379,IKEA Houston,https://www.ikea.com/us/en/stores/houston/,"TX, Houston",77024,US,379
+399,IKEA Burbank,https://www.ikea.com/us/en/stores/burbank/,"CA, Burbank",91502,US,399
+409,IKEA Paramus,https://www.ikea.com/us/en/stores/paramus/,"NJ, Paramus",7652,US,409
+410,IKEA St. Louis,https://www.ikea.com/us/en/stores/st-louis/,"MO, St. Louis",63108,US,410
+411,IKEA College Park,https://www.ikea.com/us/en/stores/college-park/,"MD, College Park",20740,US,411
+413,IKEA Covina,https://www.ikea.com/us/en/stores/covina/,"CA, Covina",91723,US,413
+462,IKEA Las Vegas,https://www.ikea.com/us/en/stores/las-vegas/,"NV, Las Vegas",89148,US,462
+488,IKEA Renton,https://www.ikea.com/us/en/stores/renton/,"WA, Renton",98057,US,488
+508,IKEA Memphis,https://www.ikea.com/us/en/stores/memphis/,"TN, Memphis",38016,US,508
+511,IKEA Columbus,https://www.ikea.com/us/en/stores/columbus/,"OH, Columbus",43240,US,511
+535,IKEA Grand Prairie,https://www.ikea.com/us/en/stores/grand-prairie/,"TX, Grand Prairie",75052,US,535
+536,IKEA Fishers,https://www.ikea.com/us/en/stores/fishers/,"IN, Fishers",46037,US,536
+537,IKEA Jacksonville,https://www.ikea.com/us/en/stores/jacksonville/,"FL, Jacksonville",32256,US,537
+560,IKEA Oak Creek,https://www.ikea.com/us/en/stores/oak-creek/,"WI, Oak Creek",53154,US,560
+569,IKEA Norfolk,https://www.ikea.com/us/en/stores/norfolk/,"VA, Norfolk",23502,US,569
+570,IKEA Live Oak,https://www.ikea.com/us/en/stores/live-oak/,"TX, Live Oak",78233,US,570
+658,IKEA San Francisco,https://www.ikea.com/us/en/stores/san-francisco/,"CA, San Francisco",94103,US,658
+680,IKEA Arcadia,https://www.ikea.com/us/en/stores/planning-studio-arcadia/,"CA, Arcadia - Planning studio ",91007,US,680
+681,IKEA Long Beach,https://www.ikea.com/us/en/stores/planning-studio-long-beach/,"CA, Long Beach - Planning studio ",90808,US,681
+707,IKEA Arlington,https://www.ikea.com/us/en/stores/plan-and-order-point-arlington/,"VA, Arlington - Plan and order point",22202,US,707
+921,IKEA Brooklyn,https://www.ikea.com/us/en/stores/brooklyn/,"NY, Brooklyn",11231,US,921
+587,IKEA Wien Westbahnhof,https://www.ikea.com/at/de/stores/wien-westbahnhof/,Wien Westbahnhof,1150,AT,587
+528,IKEA Ljubljana,https://www.ikea.com/si/sl/stores/,Ljubljana,1000,SI,528
+489,IKEA Bratislava,https://www.ikea.com/sk/sk/stores/bratislava/,Bratislava,821 04,SK,489
+167,IKEA Costa Mesa,https://www.ikea.com/us/en/stores/costa-mesa/,"CA, Costa Mesa",92626,US,167
+717,Santander,'-,Santander,39011,ES,717
+180,IKEA Örs vezér tere Budapest,https://www.ikea.com/hu/hu/stores/budapest/,Örs vezér téri IKEA,1148,HU,180
+182,IKEA  Budaörs,https://www.ikea.com/hu/hu/stores/budaors/,Budaörsi IKEA,2040,HU,182
+507,IKEA Soroksár,https://www.ikea.com/hu/hu/stores/soroksar/,Soroksári IKEA,1239,HU,507
+578,IKEA Nagasandra,https://www.ikea.com/in/en/stores/bengaluru/,Nagasandra,560073,IN,578
+593,IKEA R-CITY,https://www.ikea.com/in/en/stores/mumbai/rcity/,R City store,400086,IN,593
+629,IKEA Worli,https://www.ikea.com/in/en/stores/mumbai/worli/,Worli City Store,400013,IN,629
+664,IKEA Timișoara,https://www.ikea.com/ro/ro/stores/timisoara/,Timișoara,307160,RO,664
+50,IKEA Beograd,https://www.ikea.com/rs/sr/stores/,Beograd,11231,RS,050
+589,IKEA Kållered,https://www.ikea.com/se/sv/stores/goteborg-kallered/,Kållered,42836,SE,589
+669,IKEA Gallerian,https://www.ikea.com/se/sv/stores/stockholm-gallerian/,Gallerian,11151,SE,669
+713,IKEA Lund Nova,https://www.ikea.com/se/sv/stores/planeringsstudio-lund/,Lund Nova,22761,SE,713
+617,IKEA Potsdam,https://www.ikea.com/de/de/stores/potsdam/,Potsdam,14467,DE,617

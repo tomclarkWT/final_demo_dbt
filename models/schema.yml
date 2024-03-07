@@ -1,0 +1,51 @@
+version: 2
+
+models:
+  - name: customers
+    description: One record per customer
+    columns:
+        - name: customer_id
+          description: Primary Key
+          tests:
+                - unique
+                - not_null
+        - name: first_order_date
+          description: NULL when a customer has not yet placed an order.
+        
+
+  - name: stg_customers
+    description: This model cleans up customer data
+    columns:
+      - name: customer_id
+        description: Primary key
+        tests:
+            - unique
+            - not_null          
+
+  - name: stg_orders
+    description: This model cleans up order data
+    columns:
+      - name: order_id
+        description: Primary key
+        tests:
+          - unique
+          - not_null    
+      - name: status
+        description: Displays the status of the order and much fit within the accepted values parameters
+        tests:
+          - accepted_values:
+              values: ['placed', 'shipped', 'completed', 'return_pending', 'returned']
+      - name: customer_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_customers')
+              field: customer_id
+
+  - name: stores_by_country
+    description: An aggregated table that displays number of stores by country code
+    columns:
+      - name: MARKET
+        description: Two letter country code
+
+
